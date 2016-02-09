@@ -1,2 +1,3 @@
 # Learn_command_line_excersises
-Gitup exersize 
+Gitup exersize
+# This directory is here to help us learn the command line
