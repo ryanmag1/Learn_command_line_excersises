@@ -1,11 +1,11 @@
 |Question| Answer|
 |----|----|
-|cd to the joe directory with one command.|cd temp/stuff/things/frank/joe/alex/john|
+|cd to the joe directory with one command.|cd temp/stuff/things/frank/joe/|
 |cd back to temp with one command, but not further above that.|cd ../../../../../../../|
-|find out how to cd to your "home directory" with one command.| cd~|
-|cd to your Documents directory, then find it with your GUI file browser (Finder, Windows Explorer, etc.).|CMD SPACE finder|
-|cd to your Downloads directory, then find it with your file browser.|Done|
-|find another directory with your file browser, then cd to it.|Done|
+|find out how to cd to your "home directory" with one command.| cd ~|
+|cd to your Documents directory, then find it with your GUI file browser (Finder, Windows Explorer, etc.).|$cd Documents, CMD SPACE finder|
+|cd to your Downloads directory, then find it with your file browser.|cd ../Downloads|
+|find another directory with your file browser, then cd to it.|cd ../music|
 |Can you cd into the temp directory?|cd tmp
 |Why don't we go into the temp directory?|cd /tmp
 |Can you go to the slash temp directory?|cd /tmp
